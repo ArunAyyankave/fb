@@ -1,0 +1,19 @@
+.img{
+    width: 60%;
+    height: 30%;
+}
+.helps{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    
+}
+.lt{
+    text-decoration: none;
+    color: #8a8d91;
+    display: inline;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    margin-left: 1rem;
+}
